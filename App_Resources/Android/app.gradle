@@ -4,7 +4,7 @@ dependencies {
 }
 
 android {
-  // compileSdkVersion 32
+   compileSdkVersion 32
   // buildToolsVersion "32.0.0"
   // ndkVersion ""
 
