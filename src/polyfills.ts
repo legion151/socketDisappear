@@ -4,6 +4,7 @@
 
 // Install @nativescript/core polyfills (XHR, setTimeout, requestAnimationFrame)
 import '@nativescript/core/globals';
+import '@valor/nativescript-websockets';
 // Install @nativescript/angular specific polyfills
 import '@nativescript/angular/polyfills';
 
